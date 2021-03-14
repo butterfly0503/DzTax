@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "411372627924",
+    "firebase_url": "https://aplikacja-ca164.firebaseio.com",
+    "project_id": "aplikacja-ca164",
+    "storage_bucket": "aplikacja-ca164.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411372627924:android:7ef89261bdc399acbad841",
+        "android_client_info": {
+          "package_name": "com.prezi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411372627924-nghmgdl3mgklci18gqnqr924fvvr3imu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuWm9BhBK9P1L8RKYZVxjHubPsP1gxE98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411372627924-nghmgdl3mgklci18gqnqr924fvvr3imu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
